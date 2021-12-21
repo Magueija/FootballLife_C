@@ -12,7 +12,7 @@ As my abilities are not very big yet, we can say that this was a small sketch an
 This program was supposed to be a program where it had all the functions that a club needed, but I had some difficulties in developing some of these functions and it turned out to be just a simple program, although it has the main tasks.
 
 ## Preview
-<img alt="Football Life Homepage" width="50%" src="https://github.com/Magueija/FootballLife_C/blob/main/imgs/login.jpg?raw=true"/>
+<img alt="Football Life Login" width="30%" src="https://github.com/Magueija/FootballLife_C/blob/main/imgs/login.png?raw=true"/>
 
 ## Manuals
 
