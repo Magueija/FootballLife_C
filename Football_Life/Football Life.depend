@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1525338062 source:c:\users\psi17f20\desktop\football life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	"Login.h"
+	"Menu_Login.h"
+	"Titulo.h"
+	"Atletas.h"
+	"Equipa_Tecnica.h"
+	"Direcao.h"
+
+1525340574 c:\users\psi17f20\desktop\football life\login.h
+
+1523526453 c:\users\psi17f20\desktop\football life\titulo.h
+
+1525337966 c:\users\psi17f20\desktop\football life\menu_login.h
+
+1525852658 c:\users\psi17f20\desktop\football life\atletas.h
+
+1525852658 c:\users\psi17f20\desktop\football life\equipa_tecnica.h
+
+1525347850 c:\users\psi17f20\desktop\football life\direcao.h
+
+1527064453 source:c:\users\psi17f20\desktop\football_life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	"Login.h"
+	"Menu_Login.h"
+	"Titulo.h"
+	"Equipa_Tecnica.h"
+	"Direcao.h"
+	"Atletas.h"
+
+1527062915 c:\users\psi17f20\desktop\football_life\login.h
+
+1527061285 c:\users\psi17f20\desktop\football_life\menu_login.h
+
+1527061285 c:\users\psi17f20\desktop\football_life\titulo.h
+
+1527064597 c:\users\psi17f20\desktop\football_life\atletas.h
+
+1527064597 c:\users\psi17f20\desktop\football_life\equipa_tecnica.h
+
+1527065417 c:\users\psi17f20\desktop\football_life\direcao.h
+
+1526744787 source:c:\users\tomás\desktop\football_life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	"Login.h"
+	"Menu_Login.h"
+	"Titulo.h"
+	"Equipa_Tecnica.h"
+	"Direcao.h"
+	"Atletas.h"
+
+1526744787 c:\users\tomás\desktop\football_life\login.h
+
+1526744787 c:\users\tomás\desktop\football_life\menu_login.h
+
+1526744787 c:\users\tomás\desktop\football_life\titulo.h
+
+1526744786 c:\users\tomás\desktop\football_life\atletas.h
+
+1526745007 c:\users\tomás\desktop\football_life\equipa_tecnica.h
+
+1526744786 c:\users\tomás\desktop\football_life\direcao.h
+
+1526292276 source:c:\users\psi17f20\desktop\home\football_life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	"Login.h"
+	"Menu_Login.h"
+	"Titulo.h"
+	"Atletas.h"
+	"Equipa_Tecnica.h"
+	"Direcao.h"
+
+1526292705 c:\users\psi17f20\desktop\home\football_life\login.h
+
+1526288447 c:\users\psi17f20\desktop\home\football_life\menu_login.h
+
+1526287413 c:\users\psi17f20\desktop\home\football_life\titulo.h
+
+1526290057 c:\users\psi17f20\desktop\home\football_life\atletas.h
+
+1526290057 c:\users\psi17f20\desktop\home\football_life\equipa_tecnica.h
+
+1526293882 c:\users\psi17f20\desktop\home\football_life\direcao.h
+
+1526989888 source:c:\users\psi17f20\desktop\faslta ajustes\football_life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	"Login.h"
+	"Menu_Login.h"
+	"Titulo.h"
+	"Equipa_Tecnica.h"
+	"Direcao.h"
+	"Atletas.h"
+
+1526987794 c:\users\psi17f20\desktop\faslta ajustes\football_life\login.h
+
+1526987795 c:\users\psi17f20\desktop\faslta ajustes\football_life\menu_login.h
+
+1526987795 c:\users\psi17f20\desktop\faslta ajustes\football_life\titulo.h
+
+1526992235 c:\users\psi17f20\desktop\faslta ajustes\football_life\equipa_tecnica.h
+
+1526989888 c:\users\psi17f20\desktop\faslta ajustes\football_life\direcao.h
+
+1526993829 c:\users\psi17f20\desktop\faslta ajustes\football_life\atletas.h
+
+1527033168 source:c:\users\tomás\desktop\faslta ajustesn 2\faslta ajustesn 2\football_life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	"Login.h"
+	"Menu_Login.h"
+	"Titulo.h"
+	"Equipa_Tecnica.h"
+	"Direcao.h"
+	"Atletas.h"
+
+1527034754 c:\users\tomás\desktop\faslta ajustesn 2\faslta ajustesn 2\football_life\login.h
+
+1527033168 c:\users\tomás\desktop\faslta ajustesn 2\faslta ajustesn 2\football_life\menu_login.h
+
+1527033168 c:\users\tomás\desktop\faslta ajustesn 2\faslta ajustesn 2\football_life\titulo.h
+
+1527033167 c:\users\tomás\desktop\faslta ajustesn 2\faslta ajustesn 2\football_life\equipa_tecnica.h
+
+1527034754 c:\users\tomás\desktop\faslta ajustesn 2\faslta ajustesn 2\football_life\direcao.h
+
+1527034006 c:\users\tomás\desktop\faslta ajustesn 2\faslta ajustesn 2\football_life\atletas.h
+
+1527061912 source:c:\users\psi17f20\desktop\faslta ajustesn 223e\faslta ajustesn 2\faslta ajustesn 2\football_life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	"Login.h"
+	"Menu_Login.h"
+	"Titulo.h"
+	"Equipa_Tecnica.h"
+	"Direcao.h"
+	"Atletas.h"
+
+1527062915 c:\users\psi17f20\desktop\faslta ajustesn 223e\faslta ajustesn 2\faslta ajustesn 2\football_life\login.h
+
+1527061285 c:\users\psi17f20\desktop\faslta ajustesn 223e\faslta ajustesn 2\faslta ajustesn 2\football_life\menu_login.h
+
+1527061285 c:\users\psi17f20\desktop\faslta ajustesn 223e\faslta ajustesn 2\faslta ajustesn 2\football_life\titulo.h
+
+1527062915 c:\users\psi17f20\desktop\faslta ajustesn 223e\faslta ajustesn 2\faslta ajustesn 2\football_life\equipa_tecnica.h
+
+1527062915 c:\users\psi17f20\desktop\faslta ajustesn 223e\faslta ajustesn 2\faslta ajustesn 2\football_life\direcao.h
+
+1527063099 c:\users\psi17f20\desktop\faslta ajustesn 223e\faslta ajustesn 2\faslta ajustesn 2\football_life\atletas.h
+
+1527064453 source:c:\users\psi17f20\desktop\projeto_tomás_silva\football_life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	"Login.h"
+	"Menu_Login.h"
+	"Titulo.h"
+	"Equipa_Tecnica.h"
+	"Direcao.h"
+	"Atletas.h"
+
+1527062915 c:\users\psi17f20\desktop\projeto_tomás_silva\football_life\login.h
+
+1527061285 c:\users\psi17f20\desktop\projeto_tomás_silva\football_life\menu_login.h
+
+1527068463 c:\users\psi17f20\desktop\projeto_tomás_silva\football_life\titulo.h
+
+1527064597 c:\users\psi17f20\desktop\projeto_tomás_silva\football_life\equipa_tecnica.h
+
+1527068551 c:\users\psi17f20\desktop\projeto_tomás_silva\football_life\direcao.h
+
+1527068600 c:\users\psi17f20\desktop\projeto_tomás_silva\football_life\atletas.h
+
+1527075258 source:c:\users\psi17f20\desktop\projeto_tomas_silva\football_life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	"Login.h"
+	"Menu_Login.h"
+	"Titulo.h"
+	"Equipa_Tecnica.h"
+	"Direcao.h"
+	"Atletas.h"
+
+1527062915 c:\users\psi17f20\desktop\projeto_tomas_silva\football_life\login.h
+
+1527061285 c:\users\psi17f20\desktop\projeto_tomas_silva\football_life\menu_login.h
+
+1527068463 c:\users\psi17f20\desktop\projeto_tomas_silva\football_life\titulo.h
+
+1527064597 c:\users\psi17f20\desktop\projeto_tomas_silva\football_life\equipa_tecnica.h
+
+1527243597 c:\users\psi17f20\desktop\projeto_tomas_silva\football_life\direcao.h
+
+1527243597 c:\users\psi17f20\desktop\projeto_tomas_silva\football_life\atletas.h
+
