@@ -2,7 +2,7 @@
 
 Football Life is a simple program created to make life easier for the
 human being, in this case, of members of a football club, whether they are directors, coaches or even athletes. The user can also ask for a different look/layout.
-This program is developed in C, on codeblocks.
+This program was developed in C, on codeblocks.
 
 ### How it all began
 Nowadays there are some clubs that the organization is not very good and they don't have the money to help them either, so I decided to make a program where this would change. Despite being a very simple one, it will be accessible and easy to understand for all clubs to have access to.
